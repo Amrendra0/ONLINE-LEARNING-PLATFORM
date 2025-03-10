@@ -27,7 +27,7 @@ Online Learning Platform is a simple web application built using React for the f
 
 ## Installation
 To run this project locally, follow these steps:
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/Amrendra0/ONLINE-LEARNING-PLATFORM.git`
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Run the front end using `npm start`.
