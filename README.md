@@ -1,3 +1,15 @@
+COMPANY : CODTECH IT SOLUTIONS PVT.LTD
+
+NAME : Amrendra Patel
+
+INTENR ID : CT08WDY
+
+DOMAIN : FULL STACK WEB DEVELOPMENT
+
+BATCH DURATION : February 25th, 2025 to March 25th, 2025
+
+MENTOR NAME : NEELA SANTOSH KUMAR
+
 
 # Online Learning Platform
 
@@ -15,7 +27,7 @@ Online Learning Platform is a simple web application built using React for the f
 
 ## Installation
 To run this project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/swapniltake1/online-learning-platform.git`
+1. Clone the repository: ``
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Run the front end using `npm start`.
@@ -29,11 +41,6 @@ To run this project locally, follow these steps:
 ## Contributing
 We welcome contributions from the community. If you wish to contribute to this project, please follow the guidelines in the `CONTRIBUTING.md` file.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Contact
-For any inquiries or suggestions, please feel free to reach out to us at [takeswapnil8@gmail.com](mailto:takeswapnil@gmail.com).
 
 
 
